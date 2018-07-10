@@ -1,4 +1,4 @@
-package endecor.com.emretufekci;
+package com.emretufekci;
 
 import org.junit.Assert;
 import org.junit.Test;

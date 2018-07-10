@@ -1,4 +1,4 @@
-package endecor.com.emretufekci;
+package com.emretufekci;
 
 import javax.crypto.Cipher;
 import javax.crypto.KeyGenerator;
