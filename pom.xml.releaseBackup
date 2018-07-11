@@ -11,7 +11,7 @@
 
 <groupId>com.emretufekci</groupId>
 <artifactId>endecoR</artifactId>
-<version>1.0</version>
+<version>1.0-SNAPSHOT</version>
 
 
     <build>
@@ -43,13 +43,6 @@
 
 
 
-
-
-  <scm>
-    <connection>scm:svn:http://svn.sonatype.org/spice/tags/endecoR-1.0</connection>
-    <developerConnection>scm:svn:https://svn.sonatype.org/spice/tags/endecoR-1.0</developerConnection>
-    <url>http://svn.sonatype.org/spice/tags/endecoR-1.0</url>
-  </scm>
 
 </project>
 
